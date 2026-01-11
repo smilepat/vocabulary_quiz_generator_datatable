@@ -1,0 +1,20 @@
+선택박스	Target Word	Parts of Speech	Example Sentence	Synonyms/Antonyms	CEFR/Grade	Korea Curriculum
+☐	the	article	The sun is shining brightly.	a, an (similar) / - 	A1	초등3
+☐	and	conjunction	I like apples and oranges.	as well as, plus / but, or	A1	초등3
+☐	I	pronoun	I am a student.	me, myself / you, they	A1	초등3
+☐	to	preposition	I go to school every day.	toward, into / from, away	A1	초등3
+☐	of	preposition	A cup of coffee, please.	belonging to / -	A1	초등3
+☐	a	article	I have a dog.	an, one / the	A1	초등3
+☐	you	pronoun	You are my best friend.	yourself / I, me	A1	초등3
+☐	it	pronoun	It is a beautiful day.	this, that / -	A1	초등3
+☐	that	pronoun	That is my book.	this, which / -	A1	초등3
+☐	in	preposition	The keys are in the drawer.	inside, within / out, outside	A1	초등3
+☐	he	pronoun	He is my brother.	him, himself / she, her	A1	초등3
+☐	for	preposition	This gift is for you.	to, toward / against	A1	초등3
+☐	they	pronoun	They are playing soccer.	them, themselves / we, I	A1	초등3
+☐	on	preposition	The book is on the table.	upon, atop / under, below	A1	초등3
+☐	but	conjunction	I tried, but I failed.	however, yet / and, also	A1	초등4
+☐	we	pronoun	We love our school.	us, ourselves / they, you	A1	초등3
+☐	have	verb	I have two cats.	possess, own / lack, need	A1	초등3
+☐	know	verb	I know the answer.	understand, recognize / forget, ignore	A1	초등4
+☐	with	preposition	I went with my friends.	alongside, together / without, alone	A1	초등3
